@@ -1,0 +1,28 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 19 ott 2023, 10:56:41
+    Author     : Aldo
+*/
+
+.download-container {
+    text-align: center;
+    margin-right: 20px; /* Aggiungi il margine a destra desiderato */
+}
+
+#imgRina {
+    float: right;
+    width: 150px;
+    margin-top: -65px;
+    margin-left: 20px;
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    border: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+}
